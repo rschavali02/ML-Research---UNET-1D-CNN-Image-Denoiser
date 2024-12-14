@@ -1,0 +1,2 @@
+Noisy SNR: 13.09 dB
+BM3D Denoised SNR: 25.72 dB

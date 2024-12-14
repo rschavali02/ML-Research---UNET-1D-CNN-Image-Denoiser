@@ -1,0 +1,17 @@
+Noise Level: 0.01, SNR: [23.73115348815918]
+Noise Level: 0.05, SNR: [21.600522994995117]
+Noise Level: 0.1, SNR: [18.135183334350586]
+Noise Level: 0.2, SNR: [17.50182342529297]
+Noise Level: 0.3, SNR: [11.890235900878906]
+Noise Level: 0.5, SNR: [11.824737548828125]
+Noise Level: 0.01, Noisy SNR: 30.62 dB, Denoised SNR: 23.84 dB
+Noise Level: 0.05, Noisy SNR: 15.91 dB, Denoised SNR: 21.66 dB
+Noise Level: 0.1, Noisy SNR: 10.16 dB, Denoised SNR: 19.65 dB
+Noise Level: 0.2, Noisy SNR: 3.75 dB, Denoised SNR: 17.44 dB
+Noise Level: 0.3, Noisy SNR: 0.44 dB, Denoised SNR: 15.39 dB
+Noise Level: 0.5, Noisy SNR: -3.92 dB, Denoised SNR: 13.55 dB
+Noise Level: 0.05, Noisy SNR: 15.43 dB, Denoised SNR: 21.04 dB
+Noise Level: 0.1, Noisy SNR: 10.60 dB, Denoised SNR: 19.31 dB
+Noise Level: 0.2, Noisy SNR: 4.70 dB, Denoised SNR: 18.70 dB
+Noise Level: 0.3, Noisy SNR: 0.92 dB, Denoised SNR: 17.82 dB
+Noise Level: 0.5, Noisy SNR: -2.88 dB, Denoised SNR: 14.23 dB
